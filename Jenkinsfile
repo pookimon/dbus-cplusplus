@@ -1,4 +1,3 @@
-    
 #!/usr/bin/groovy
 
 // Copyright (C) 2019 Luxoft Sweden AB
